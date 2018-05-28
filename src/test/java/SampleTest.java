@@ -12,11 +12,4 @@ public class SampleTest {
 		
 	}
 	
-	@Test
-	public void simpleTestFail() {
-		int a = 5;
-		int b = 10 ;
-		assertTrue(a+b == 20);
-		
-	}
 }
